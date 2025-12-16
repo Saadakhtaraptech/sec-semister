@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<general xmlns:b="http://xmlbio.com" xmlns:c="http://xmlcom.com">
+    <book>
+        <b:urdu></b:urdu>
+        <b:english></b:english>
+        <b:bio></b:bio>
+    </book>
+
+    <book>
+        <c:urdu></c:urdu>
+        <c:english></c:english>
+        <c:computer></c:computer>
+    </book>
+
+    <book>
+        <b:urdu></b:urdu>
+        <b:english></b:english>
+        <b:bio></b:bio>
+    </book>
+
+    <book>
+        <c:urdu></c:urdu>
+        <c:english></c:english>
+        <c:computer></c:computer>
+    </book>
+    
+</general>

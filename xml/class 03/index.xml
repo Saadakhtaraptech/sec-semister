@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet href="index.xsl" type="text/xsl"?>
+
+<aptech>
+
+    <student>
+        <name>Saad</name>
+        <email>Saad@gmail.com</email>
+        <age>18</age>
+        <city>Karachi</city>
+    </student>
+
+
+    <student>
+        <name>Hasnain</name>
+        <email>hasnain@gmail.com</email>
+        <age>4</age>
+        <city>Karchi</city>
+    </student>
+
+
+    <student>
+        <name>Guzaman</name>
+        <email>Gulzaman@gmail.com</email>
+        <age>81</age>
+        <city>Mumbai</city>
+    </student>
+    
+</aptech>
