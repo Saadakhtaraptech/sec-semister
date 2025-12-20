@@ -1,6 +1,6 @@
 class Temperature{
     #celsius;
-    constructor(celsius){
+    constructor(value){
         this.#celsius = value
 
     }
