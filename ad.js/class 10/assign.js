@@ -45,7 +45,26 @@
 
 
 
+// fetch("assign.json")
+//   .then(response => response.json())
+//   .then(result => {
+//     const tableBody = document.getElementById("tableBody");
+//     tableBody.innerHTML = "";
 
+//     result.forEach(student => {
+//       tableBody.innerHTML += `
+//         <tr>
+//           <td>${student.id}</td>
+//           <td>${student.name}</td>
+//           <td>${student.fatherName}</td>
+//           <td>${student.age}</td>
+//           <td>${student.course}</td>
+//           <td>${student.batch}</td>
+//           <td>${student.feesPaid}</td>
+//         </tr>
+//       `;
+//     });
+//   });
 
 
 
