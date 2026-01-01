@@ -18,5 +18,6 @@ orderFood.then((msg)=>{
     status.innerText = msg
     result.innerText = 'enjoy your meal'
 }).catch((error)=>{
-    status.innerText = error
+    status.innerText = 
+    
 })
